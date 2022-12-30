@@ -1,4 +1,4 @@
-<h1>Hello, I'm De'Von, an aspiring <a href="https://www.linkedin.com/in/de-von-stephens/"> IT Professional</a>☺</h1>
+<h1>Hello, I'm DeVon, an aspiring <a href="https://www.linkedin.com/in/de-von-stephens/"> IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
